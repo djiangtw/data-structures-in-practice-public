@@ -2,7 +2,7 @@
 title: "Data Structures in Practice (繁體中文版)"
 subtitle: "A Hardware-Aware Approach for System Software Engineers"
 author: "Danny Jiang"
-version: "Draft v0p3"
+version: "Draft v0p4"
 date: "December 2025"
 ---
 
@@ -17,7 +17,7 @@ date: "December 2025"
 
 **Danny Jiang**
 
-**Draft v0p3 - December 2025**
+**Draft v0p4 - December 2025**
 
 **完整書籍內容：**
 

@@ -8,7 +8,7 @@
 
 **Copyright © 2025 Danny Jiang**
 
-- **Version**: Draft v0p3
+- **Version**: Draft v0p4
 - **Published**: December 2025
 - **Author**: Danny Jiang
 - **Contact**: djiang.tw@gmail.com

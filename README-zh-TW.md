@@ -2,9 +2,9 @@
 
 **A Hardware-Aware Approach for System Software Engineers**
 
-**作者**: Danny Jiang
-**版本**: Draft v0p3
-**授權**: CC BY 4.0 International
+**作者**: Danny Jiang  
+**版本**: Draft v0p4  
+**授權**: CC BY 4.0 International  
 **語言**: [English](README.md) | 繁體中文
 
 ---
@@ -45,13 +45,33 @@
 - Chapter 7: Hash Tables
 - Chapter 8: Dynamic Arrays
 
-**即將推出**：
-- Part III: Trees and Hierarchies（Chapters 9-12）
-- Part IV: Advanced Topics（Chapters 13-16）
-- Part V: Case Studies（Chapters 17-20）
-- 6 個附錄，包含練習題和參考資料
+**Part III: Trees and Hierarchies**（Chapters 9-12）
+- Chapter 9: Binary Trees
+- Chapter 10: B-Trees
+- Chapter 11: Tries
+- Chapter 12: Heaps
 
-**總計**：20 章，約 99,200 字（約 400 頁）
+**Part IV: Advanced Topics**（Chapters 13-16）
+- Chapter 13: Lock-Free Data Structures
+- Chapter 14: String Processing
+- Chapter 15: Graphs
+- Chapter 16: Probabilistic Data Structures
+
+**Part V: Case Studies**（Chapters 17-20）
+- Chapter 17: Bootloader Case Study
+- Chapter 18: Device Driver Case Study
+- Chapter 19: Firmware Case Study
+- Chapter 20: Benchmark Case Studies
+
+**附錄**（A-F）
+- Appendix A: Benchmark Framework Reference
+- Appendix B: Hardware Reference
+- Appendix C: Tool Reference（QEMU RISC-V Guide）
+- Appendix D: Further Reading
+- Appendix E: Exercises（40 個練習題涵蓋所有章節）
+- Appendix F: Exercise Solutions
+
+**總計**：20 章 + 6 個附錄，約 105,000 字（約 420 頁）
 
 ---
 
@@ -62,7 +82,7 @@
 - **英文版**：`manuscript/`
 - **繁體中文版**：`manuscript-zh-TW/`
 
-**目前版本**：Draft v0p3 - 2025 年 12 月
+**目前版本**：Draft v0p4 - 2025 年 12 月
 
 ---
 
@@ -159,8 +179,8 @@ pandoc manuscript-zh-TW/chapters/*.md -o book.pdf --pdf-engine=xelatex
 
 ## 📅 版本歷史
 
+- **v0p4**（2025 年 12 月）：完整書籍發布 - 全部 20 章 + 6 個附錄
 - **v0p3**（2025 年 12 月）：首次公開發布 - Part I & Part II（Chapters 1-8）
-- 更多版本即將推出！
 
 ---
 

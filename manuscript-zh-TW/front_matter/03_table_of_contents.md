@@ -130,168 +130,168 @@
 11.9 Summary
 
 ### Chapter 12: Heaps and Priority Queues
-12.1 Scheduler Debate
-12.2 Binary Heap Fundamentals
-12.3 d-ary Heaps
-12.4 Cache Behavior
-12.5 Worst-Case Timing
-12.6 Real-Time Considerations
-12.7 Fibonacci Heaps
-12.8 Guidelines
+12.1 Scheduler Debate  
+12.2 Binary Heap Fundamentals  
+12.3 d-ary Heaps  
+12.4 Cache Behavior  
+12.5 Worst-Case Timing  
+12.6 Real-Time Considerations  
+12.7 Fibonacci Heaps  
+12.8 Guidelines  
 12.9 Summary
 
 ## Part IV: Advanced Topics
 
 ### Chapter 13: Lock-Free Data Structures
-13.1 The 60% Problem
-13.2 Lock Contention
-13.3 Compare-And-Swap (CAS)
-13.4 ABA Problem
-13.5 Memory Ordering
-13.6 Lock-Free Queue
-13.7 Lock-Free Stack
-13.8 Hazard Pointers
-13.9 Performance Considerations
-13.10 Guidelines
+13.1 The 60% Problem  
+13.2 Lock Contention  
+13.3 Compare-And-Swap (CAS)  
+13.4 ABA Problem  
+13.5 Memory Ordering  
+13.6 Lock-Free Queue  
+13.7 Lock-Free Stack  
+13.8 Hazard Pointers  
+13.9 Performance Considerations  
+13.10 Guidelines  
 13.11 Summary
 
 ### Chapter 14: String Processing and Cache Efficiency
-14.1 Throughput Gap
-14.2 String Search Algorithms
-14.3 Cache-Friendly Parsing
-14.4 SIMD Optimization
-14.5 Boyer-Moore Algorithm
-14.6 Log Parser Case Study
-14.7 Guidelines
+14.1 Throughput Gap  
+14.2 String Search Algorithms  
+14.3 Cache-Friendly Parsing  
+14.4 SIMD Optimization  
+14.5 Boyer-Moore Algorithm  
+14.6 Log Parser Case Study  
+14.7 Guidelines  
 14.8 Summary
 
 ### Chapter 15: Graphs and Cache-Efficient Traversal
-15.1 Cache Miss Explosion
-15.2 Graph Representations
-15.3 Adjacency List vs Array
-15.4 CSR Format
-15.5 BFS and DFS
-15.6 Cache-Oblivious Traversal
-15.7 Prefetching
-15.8 Guidelines
+15.1 Cache Miss Explosion  
+15.2 Graph Representations  
+15.3 Adjacency List vs Array  
+15.4 CSR Format  
+15.5 BFS and DFS  
+15.6 Cache-Oblivious Traversal  
+15.7 Prefetching  
+15.8 Guidelines  
 15.9 Summary
 
 ### Chapter 16: Bloom Filters and Probabilistic Data Structures
-16.1 Memory Crisis
-16.2 Bloom Filter Fundamentals
-16.3 False Positive Rate
-16.4 Hash Function Selection
-16.5 Cache-Friendly Implementation
-16.6 Counting Bloom Filters
-16.7 HyperLogLog
-16.8 Use Cases
+16.1 Memory Crisis  
+16.2 Bloom Filter Fundamentals  
+16.3 False Positive Rate  
+16.4 Hash Function Selection  
+16.5 Cache-Friendly Implementation  
+16.6 Counting Bloom Filters  
+16.7 HyperLogLog  
+16.8 Use Cases  
 16.9 Summary
 
 ## Part V: Case Studies
 
 ### Chapter 17: Bootloader Data Structures
-17.1 The 500ms Deadline
-17.2 Bootloader Constraints
-17.3 Fixed-Size Structures
-17.4 Device Tree Parsing
-17.5 Symbol Table
-17.6 Memory-Constrained Design
-17.7 Optimization Results
+17.1 The 500ms Deadline  
+17.2 Bootloader Constraints  
+17.3 Fixed-Size Structures  
+17.4 Device Tree Parsing  
+17.5 Symbol Table  
+17.6 Memory-Constrained Design  
+17.7 Optimization Results  
 17.8 Summary
 
 ### Chapter 18: Device Driver Queues
-18.1 Packet Loss Mystery
-18.2 DMA Ring Buffers
-18.3 Interrupt Handler Design
-18.4 Lock-Free Techniques
-18.5 Cache Alignment
-18.6 Performance Tuning
-18.7 Debugging
-18.8 Guidelines
+18.1 Packet Loss Mystery  
+18.2 DMA Ring Buffers  
+18.3 Interrupt Handler Design  
+18.4 Lock-Free Techniques  
+18.5 Cache Alignment  
+18.6 Performance Tuning  
+18.7 Debugging  
+18.8 Guidelines  
 18.9 Summary
 
 ### Chapter 19: Firmware Memory Management
-19.1 The 72-Hour Test Failure
-19.2 Memory Fragmentation
-19.3 Fixed-Size Pools
-19.4 Slab Allocators
-19.5 Memory Leak Detection
-19.6 Long-Term Stability
-19.7 Best Practices
-19.8 Guidelines
+19.1 The 72-Hour Test Failure  
+19.2 Memory Fragmentation  
+19.3 Fixed-Size Pools  
+19.4 Slab Allocators  
+19.5 Memory Leak Detection  
+19.6 Long-Term Stability  
+19.7 Best Practices  
+19.8 Guidelines  
 19.9 Summary
 
 ### Chapter 20: Benchmark Case Studies
-20.1 The Dhrystone Trap
-20.2 Why Dhrystone is Obsolete
-20.3 CoreMark: A Better Benchmark
-20.4 Designing Meaningful Benchmarks
-20.5 Compiler Optimization Resistance
-20.6 Result Validation
-20.7 Case Study: Custom Benchmark
-20.8 Guidelines
+20.1 The Dhrystone Trap  
+20.2 Why Dhrystone is Obsolete  
+20.3 CoreMark: A Better Benchmark  
+20.4 Designing Meaningful Benchmarks  
+20.5 Compiler Optimization Resistance  
+20.6 Result Validation  
+20.7 Case Study: Custom Benchmark  
+20.8 Guidelines  
 20.9 Summary
 
 ## 附錄
 
 ### Appendix A: Benchmark Framework Reference
-A.1 High-Precision Timing
-A.2 Statistical Analysis
-A.3 perf Integration
-A.4 Benchmark Design Patterns
-A.5 Common Pitfalls
-A.6 Example Benchmarks
+A.1 High-Precision Timing  
+A.2 Statistical Analysis  
+A.3 perf Integration  
+A.4 Benchmark Design Patterns  
+A.5 Common Pitfalls  
+A.6 Example Benchmarks  
 
 ### Appendix B: Hardware Reference
-B.1 Cache Hierarchy
-B.2 Memory Latency Numbers
-B.3 RISC-V Architecture
-B.4 x86 Architecture
-B.5 ARM Architecture
-B.6 Atomic Operations
+B.1 Cache Hierarchy  
+B.2 Memory Latency Numbers  
+B.3 RISC-V Architecture  
+B.4 x86 Architecture  
+B.5 ARM Architecture  
+B.6 Atomic Operations  
 
 ### Appendix C: Tool Reference
-C.1 perf
-C.2 Valgrind
-C.3 Intel VTune
-C.4 gprof
-C.5 Custom Tools
-C.6 Visualization
+C.1 perf  
+C.2 Valgrind  
+C.3 Intel VTune  
+C.4 gprof  
+C.5 Custom Tools  
+C.6 Visualization  
 
 ### Appendix D: Further Reading
-D.1 Chapter-Specific Resources (Chapters 1-20)
-D.2 Books
-D.3 Papers
-D.4 Online Resources
-D.5 Open Source Projects
+D.1 Chapter-Specific Resources (Chapters 1-20)  
+D.2 Books  
+D.3 Papers  
+D.4 Online Resources  
+D.5 Open Source Projects  
 
 ### Appendix E: Exercises
-E.1 Chapter 1 Exercises
-E.2 Chapter 2 Exercises
-E.3 Chapter 3 Exercises
-E.4 Chapter 4 Exercises
-E.5 Chapter 5 Exercises
-E.6 Chapter 6 Exercises
-E.7 Chapter 7 Exercises
-E.8 Chapter 8 Exercises
-E.9 Chapter 9 Exercises
-E.10 Chapter 10 Exercises
-E.11 Chapter 11 Exercises
-E.12 Chapter 12 Exercises
-E.13 Chapter 13 Exercises
-E.14 Chapter 14 Exercises
-E.15 Chapter 15 Exercises
-E.16 Chapter 16 Exercises
-E.17 Chapter 17 Exercises
-E.18 Chapter 18 Exercises
-E.19 Chapter 19 Exercises
-E.20 Chapter 20 Exercises
-E.21 Submission Guidelines
+E.1 Chapter 1 Exercises  
+E.2 Chapter 2 Exercises  
+E.3 Chapter 3 Exercises  
+E.4 Chapter 4 Exercises  
+E.5 Chapter 5 Exercises  
+E.6 Chapter 6 Exercises  
+E.7 Chapter 7 Exercises  
+E.8 Chapter 8 Exercises  
+E.9 Chapter 9 Exercises  
+E.10 Chapter 10 Exercises  
+E.11 Chapter 11 Exercises  
+E.12 Chapter 12 Exercises  
+E.13 Chapter 13 Exercises  
+E.14 Chapter 14 Exercises  
+E.15 Chapter 15 Exercises  
+E.16 Chapter 16 Exercises  
+E.17 Chapter 17 Exercises  
+E.18 Chapter 18 Exercises  
+E.19 Chapter 19 Exercises  
+E.20 Chapter 20 Exercises  
+E.21 Submission Guidelines  
 
 ### Appendix F: Exercise Solutions
-F.1 Selected Solutions
-F.2 Implementation Details
-F.3 Performance Analysis
+F.1 Selected Solutions  
+F.2 Implementation Details  
+F.3 Performance Analysis  
 
 ## Back Matter
 

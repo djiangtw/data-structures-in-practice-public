@@ -2,9 +2,9 @@
 
 **A Hardware-Aware Approach for System Software Engineers**
 
-**Author**: Danny Jiang
-**Version**: Draft v0p3
-**License**: CC BY 4.0 International
+**Author**: Danny Jiang  
+**Version**: Draft v0p4  
+**License**: CC BY 4.0 International  
 **Language**: English | [繁體中文](README-zh-TW.md)
 
 ---
@@ -45,13 +45,33 @@
 - Chapter 7: Hash Tables
 - Chapter 8: Dynamic Arrays
 
-**Coming Soon**:
-- Part III: Trees and Hierarchies (Chapters 9-12)
-- Part IV: Advanced Topics (Chapters 13-16)
-- Part V: Case Studies (Chapters 17-20)
-- 6 Appendices with exercises and reference materials
+**Part III: Trees and Hierarchies** (Chapters 9-12)
+- Chapter 9: Binary Trees
+- Chapter 10: B-Trees
+- Chapter 11: Tries
+- Chapter 12: Heaps
 
-**Total**: 20 chapters, ~99,200 words (~400 pages)
+**Part IV: Advanced Topics** (Chapters 13-16)
+- Chapter 13: Lock-Free Data Structures
+- Chapter 14: String Processing
+- Chapter 15: Graphs
+- Chapter 16: Probabilistic Data Structures
+
+**Part V: Case Studies** (Chapters 17-20)
+- Chapter 17: Bootloader Case Study
+- Chapter 18: Device Driver Case Study
+- Chapter 19: Firmware Case Study
+- Chapter 20: Benchmark Case Studies
+
+**Appendices** (A-F)
+- Appendix A: Benchmark Framework Reference
+- Appendix B: Hardware Reference
+- Appendix C: Tool Reference (QEMU RISC-V Guide)
+- Appendix D: Further Reading
+- Appendix E: Exercises (40 exercises across all chapters)
+- Appendix F: Exercise Solutions
+
+**Total**: 20 chapters + 6 appendices, ~105,000 words (~420 pages)
 
 ---
 
@@ -62,7 +82,7 @@ All Markdown source files are available in this repository:
 - **English Version**: `manuscript/`
 - **Traditional Chinese Version**: `manuscript-zh-TW/`
 
-**Current Version**: Draft v0p3 - December 2025
+**Current Version**: Draft v0p4 - December 2025
 
 ---
 
@@ -159,8 +179,8 @@ Inspired by classic computer science texts and modern system programming practic
 
 ## 📅 Version History
 
+- **v0p4** (December 2025): Complete book release - All 20 chapters + 6 appendices
 - **v0p3** (December 2025): First public release - Part I & Part II (Chapters 1-8)
-- More releases coming soon!
 
 ---
 

@@ -8,7 +8,7 @@
 
 **Copyright © 2025 Danny Jiang**
 
-- **版本**: Draft v0p3
+- **版本**: Draft v0p4
 - **出版**: December 2025
 - **作者**: Danny Jiang
 - **聯絡**: djiang.tw@gmail.com
